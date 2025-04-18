@@ -16,6 +16,7 @@ public class Main {
 	private static void SendIntroMessage()
 	{
 		print("Hello World");
+		print("I hope you enjoy your stay");
 	}
 	
 	private static void SendExitMessage()
