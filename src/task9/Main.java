@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) 
 	{
 		SendIntroMessage();
+		SendExitMessage();
 	}
 	
 	private static void print(String message)
@@ -15,7 +16,11 @@ public class Main {
 	private static void SendIntroMessage()
 	{
 		print("Hello World");
-		print("This is my print method");
+	}
+	
+	private static void SendExitMessage()
+	{
+		print("Goodbye World");
 		print("Thank you for viewing");
 	}
 }
