@@ -15,13 +15,13 @@ public class Main {
 	
 	private static void SendIntroMessage()
 	{
-		print("Hello World");
-		print("I hope you enjoy your stay");
+		print("Hello Ligma");
+		print("I hope you enjoy your Ligma");
 	}
 	
 	private static void SendExitMessage()
 	{
-		print("Goodbye World");
-		print("Thank you for viewing");
+		print("Goodbye Ligma");
+		print("Thank you for Ligma");
 	}
 }
